@@ -24,7 +24,9 @@
 
 ###
 
-<p align="left">I'm a self-taught passionate FullStack Web Dev  👨🏻‍💻. I'm a creative problem solving enthusiast.</p>
+<p align="left">I'm a self-taught passionate FullStack Web Dev  👨🏻‍💻.
+  
+  REST API wizard – I speak fluent JSON, bend HTTP verbs to my will, and build endpoints that make servers weep with joy.</p>
 
 ###
 
