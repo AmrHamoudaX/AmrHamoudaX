@@ -46,7 +46,9 @@
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+  <img width="12" /> 
+   <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
+  <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -65,7 +67,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
 </div>
 
 ###
